@@ -295,8 +295,7 @@ body {
 
 	background: #fff;
     margin: auto;
-	font: 100% ;
-        font-family: 'Cantarell', sans-serif;
+	font: 100% Cantarell, Arial, Helvetica, sans-serif;
 	color: rgb(76, 67, 65);
 	font-weight:normal;
 	font-style:normal;
