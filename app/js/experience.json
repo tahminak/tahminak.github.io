@@ -1,0 +1,93 @@
+{
+    "timeline":
+            {
+                "headline": "My Experience",
+                "type": "default",
+                "text": "<p></p>",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                },
+                "date": [
+                    {
+                        "startDate": "2008,07,15",
+                        "endDate": "2014,12,11",
+                        "headline": "Rogers Communications Inc.",
+                        "text": "Software Developer / Senior Technical Support Consultant",
+                        "tag": "",
+                        "classname": "optionaluniqueclassnamecanbeaddedhere",
+                        "asset": {
+                            "media": "<p>Reported to Senior Manager, Project Managers, developed, and worked on several web/software development projects for National Technical Support Department.Projects include:</p><p>-- Reporting Web Application For Cable Technical Support Department</p><p>-- Call Tracker for Wireless Live chat: Initiated,developed, and implemented call tracking tools for Rogers Wireless live chat support team,significantly improved call handle time, productivity and call quality for the technical support agents( Both unilingual, and bilingual). Increased department’s service level by 15%. </p><p>-- eHelp for Rogers Wireless Customer for resolved/unsupported issues( Self-help instructions)</p><p>-- Knowledge Management System for Rogers Wireless Technical Support Department</p><p>-- Reported to Senior Team Manager, providing a high level of customer satisfaction and engagement when assisting new or existing Rogers’s customers inquiring via live chat about repair, replacement, technical problem resolution and connectivity for wireless data and voice device</p>",
+                            "thumbnail": "",
+                            "credit": "",
+                            "caption": "<span class=\"\">Jsp,Servlets,Java,php,mySql,Json,JasperReport,XML,XML/SWFCharts,javascript,Jquery,html5,Jquery,Ajax,joomla,modx,GSM,GPRS,EDGE,HSPA,UMTS,LTE,LTE Max</span>"
+
+                        }
+                    },
+                    {
+                        "startDate": "2006,00,00",
+                        "endDate": "2008,00,00",
+                        "headline": "Sitel,Toronto , Ont",
+                        "text": "<p>Senior Technical Support Consultant</p>",
+                        "tag": "",
+                        "classname": "optionaluniqueclassnamecanbeaddedhere",
+                        "asset": {
+                            "media": "<p>-- Provided technical support via telephone as a Wireless Data Group Tier II analyst for T-Mobile USA, a major US wireless service provider</p><p>-- Gained a thorough understanding about RIM Blackberry,Windows Mobile Based devices, T-mobile Sidekicks,Wireless Network Card  devices</p><p>-- Handled complex customers inquiries related to wireless data, both for specific devices and for certain network problems</p><p>-- Take the initiative to follow up, resolve and communicate issues to key business areas</p><p>-- Provided floor support by answering questions of technical support specialists and take escalated calls</p>",
+                            "thumbnail": "",
+                            "credit": "",
+                            "caption": "GSM, GPRS, EDGE, HSPA,Blackberry,SideKick"
+                        }
+                    }
+                    ,
+                    {
+                        "startDate": "2005,00,00",
+                        "endDate": "2006,00,00",
+                        "headline": "Unbounded Solutions Inc., Atlanta, Georgia",
+                        "text": "<p>Java Documentum Developer (Contract)</p>",
+                        "tag": "",
+                        "classname": "optionaluniqueclassnamecanbeaddedhere",
+                        "asset": {
+                            "media": "<p>-- Participated in a major project involving customization and implementation of Documentum Webtop. Deployed WDK and Webtop based applications as part of the nationwide rollout of the Enterprise Content Management system.</p><p>-- Customization includes: adding new menu items, updating multiple documents concurrently, enhanced search functionality, storing meta-data in user’s local machine, implementation of a customized reporting tool. (Windows 2000, Documentum,J2EE,J2SE,XML,JavaScript)</p>",
+                            "thumbnail": "",
+                            "credit": "",
+                            "caption": "Windows 2000, Documentum,J2EE,J2SE,XML,JavaScript"
+                        }
+                    }
+,
+                    {
+                        "startDate": "2002,00,00",
+                        "endDate": "2005,00,00",
+                        "headline": "University of Windsor, Windsor, Ontario",
+                        "text": "<p>Teaching/Research Assistant </p>",
+                        "tag": "",
+                        "classname": "optionaluniqueclassnamecanbeaddedhere",
+                        "asset": {
+                            "media": "<p>-- Acquired and applied in a real-world environment skills in full software development life cycle process. Conducted research and analyzed project requirements in Use Case. Conducted Quality Assurance and testing to ensure optimal software performance. Performed an array of additional application development projects in collaboration with peers and on an independent basis. Projects include:</p><p>-- Mentored peers regarding programming and advanced mathematics courses. Provided assistance with system, object-oriented, Java,C and computer architecture programming projects. Supervised laboratory projects, answering inquiries and aiding in the completion of complex programming assignments. Evaluated and delivered feedback on project results. </p>",
+                            "thumbnail": "",
+                            "credit": "",
+                            "caption": "Object-Oriented, Java,C and Computer architecture programming projects"
+                        }
+                    }
+
+
+                ],
+                "era": [
+                    {
+                        "startDate": "2012,12,10",
+                        "endDate": "2012,12,11",
+                        "headline": "",
+                        "text": "<p></p>",
+                        "tag": ""
+                    },
+                    {
+                        "startDate": "2011,12,10",
+                        "endDate": "2011,12,11",
+                        "headline": "",
+                        "text": "<p></p>",
+                        "tag": ""
+                    }
+
+                ]
+            }
+}
