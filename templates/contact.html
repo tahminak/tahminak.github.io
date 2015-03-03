@@ -8,9 +8,16 @@
                                                     <div class="col-sm-2"></div>
                                                     <div class="col-sm-8 wow fadeInRight animated" data-wow-offset="40" data-wow-duration="3s" data-wow-delay="0.15s" >
                                                         
+                                                                   
                                                          <alert ng-repeat="alert in alerts" type="{{alert.type}}" close="closeAlert($index)">{{alert.msg}}</alert>
+                                                      
                                                         
                                                         <form id="emailform" ng-submit="sendEmail()" >
+                                                       
+                                                                
+                                                        
+                         
+                                                            
                                                             <div class="form-group">
                                                                 <input type="text" class="form-control" id="name" placeholder="Your Name" ng-model="formData.name" required>
                                                             </div>
@@ -25,11 +32,12 @@
                                                             <div class="form-group">
                                                                 <textarea class="form-control" id="message" rows="10" ng-model="formData.message" placeholder="What is in your mind?"></textarea>
                                                             </div>
-    
+   
                                                             <button id="submitButton" type="submit" class="btn btn-lg btn-success center-block sendButton"><i class="fa fa-send-o fa-fw"></i>Submit</button>
-    
+                                                             
                                                         </form>
-    
+                                                           
+                                                        
                                                     </div>
                                                     <div class="col-sm-2"></div>
                                                 </div>

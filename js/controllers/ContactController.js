@@ -29,14 +29,32 @@
             })
                     .success(function (data) {
                         console.log(data);
-                        alert("Email was sent");
+                     
+
+                        $scope.alerts.push({type: 'success',msg: 'Email was sent'});
                         
-                        $scope.alerts.push({msg: 'Email was sent'});
+                        $scope.formData = {
+                               name:'Your Name',
+                               subject:'Subject',
+                               email:'Your email',
+                               message:'What is in your mind?'
+                        };
+                        
+                    }).error(function (data,status,header,config){
+                        
+                        console.log(data);
+                           $scope.alerts.push({type: 'danger',msg: 'There was an error'});
+                      
+                        
                     });
 
 
 
         }
+
+        $scope.addAlert = function () {
+            $scope.alerts.push({msg: 'Another alert!'});
+        };
 
         $scope.closeAlert = function (index) {
             $scope.alerts.splice(index, 1);
