@@ -9,9 +9,19 @@ var app= angular.module("myResumeApp");
     
     
     
-var PortfolioController=function ($scope){
+var PortfolioController=function ($scope,$http){
     
-    //console.log("In About controller");
+    $scope.projects;
+    
+   console.log("In Portfolio controller");
+   
+   $http.get('projects.json').success(function (data){
+       
+       $scope.projects=data;
+       
+       console.log(data);
+   });
+    
     
 }
     

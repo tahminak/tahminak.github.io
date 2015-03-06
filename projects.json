@@ -1,0 +1,20 @@
+[{
+    "title": "eHelp for Rogers Wireless Customer",
+    "image":"./images/ehelp_portfolio_01.png",
+    "technology":["php","joomla","mySql","javascript","Jquery"],
+    "description":"This portal is for wireless technical support agents, after resolving an issue for a customer, and documenting the calls to billing system, and send an email instructions of how to resolved the issue by themselves for future reference. The links of the email will be an external site where Rogers customers can get the instructions, and screen shots of the how to perform the steps to resolve the issue. The tool will increase “First Time Resolution” for wireless agents, and decrease call volume for the department.",
+    "linkTitle":"View Demo Site",
+    "link":"http://rogersehelp.com/demo/index.php/android/85-android-data-connectivity"
+    
+},{
+    "title": "Reporting Web Application For Cable Technical Support Department",
+    "image":"./images/cableRepair_01.png",
+    "technology":["php","joomla","mySql","javascript","Jquery","Maani Charts"],
+    "description":"Developed and designed for the Web portal for Rogers Cable Repair. This is an internal web portal for the cable management team. The management team of the department uses this portal for Daily, Monthly and quarterly reporting. There are about more than 20 dynamically generated and, auto updating charts and tables containing real time data for reporting purpose.",
+    "linkTitle":"View Project",
+    "link":""
+    
+}
+
+]
+
