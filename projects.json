@@ -9,7 +9,7 @@
 },{
     "title": "Reporting Web Application For Cable Technical Support Department",
     "image":"./images/cableRepair_01.png",
-    "technology":["PHP","joomla","mySql","JavaScript","JQuery","Maani Charts"],
+    "technology":["JSP","POJO","JasperReports","CSS","mySql","JavaScript","JQuery","AJAX","Maani Charts"],
     "description":"Developed and designed Web portal for Rogers Cable Repair department allowing senior managers and call centers to identify top call drivers to improve service level. Increased reporting efficiency by 50% by streamlining databases and enabling users to gain insight into data from historical analysis.. This is an internal web portal for the cable management team. The management team of the department uses this portal for Daily, Monthly and quarterly reporting. There are about more than 20 dynamically generated and, auto updating charts and tables containing real time data for reporting purpose.",
     "linkTitle":"View Project",
     "link":""
@@ -58,7 +58,7 @@
     "title": "Resume",
     "image":"./images/resume_site_01.png",
     "technology":["Media Queries","Responsive","CSS","javaScript","JQuery","HTML5","PHP","AJAX"],
-    "description":"This is a replica of my resume.The site is designed following responsive layout.This code is available on GitHub",
+    "description":"This is a replica of my resume.The site is designed following responsive layout.The code is available on GitHub",
     "linkTitle":"View Site",
     "link":"http://tamzeveloper.com/oldresume/Resume_V01/"
     
