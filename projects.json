@@ -1,18 +1,66 @@
 [{
-    "title": "eHelp for Rogers Wireless Customer",
-    "image":"./images/ehelp_portfolio_01.png",
-    "technology":["php","joomla","mySql","javascript","Jquery"],
-    "description":"This portal is for wireless technical support agents, after resolving an issue for a customer, and documenting the calls to billing system, and send an email instructions of how to resolved the issue by themselves for future reference. The links of the email will be an external site where Rogers customers can get the instructions, and screen shots of the how to perform the steps to resolve the issue. The tool will increase “First Time Resolution” for wireless agents, and decrease call volume for the department.",
-    "linkTitle":"View Demo Site",
-    "link":"http://rogersehelp.com/demo/index.php/android/85-android-data-connectivity"
+    "title": "Call Tracker for Rogers Wireless Live chat ",
+    "image":"./images/wlc_tracker_03.png",
+    "technology":["Java Swing","JSon","JavaScript","AngularJS","JQuery","Bootstrap","CSS","Less/SASS"],
+    "description":"Initiated,developed, and implemented call tracking tools for Rogers Wireless live chat support team,significantly improved call handle time, productivity and call quality for the technical support agents( Both unilingual, and bilingual). Increased department’s service level by 15%.",
+    "linkTitle":"View Project",
+    "link":""
     
 },{
     "title": "Reporting Web Application For Cable Technical Support Department",
     "image":"./images/cableRepair_01.png",
-    "technology":["php","joomla","mySql","javascript","Jquery","Maani Charts"],
-    "description":"Developed and designed for the Web portal for Rogers Cable Repair. This is an internal web portal for the cable management team. The management team of the department uses this portal for Daily, Monthly and quarterly reporting. There are about more than 20 dynamically generated and, auto updating charts and tables containing real time data for reporting purpose.",
+    "technology":["PHP","joomla","mySql","JavaScript","JQuery","Maani Charts"],
+    "description":"Developed and designed Web portal for Rogers Cable Repair department allowing senior managers and call centers to identify top call drivers to improve service level. Increased reporting efficiency by 50% by streamlining databases and enabling users to gain insight into data from historical analysis.. This is an internal web portal for the cable management team. The management team of the department uses this portal for Daily, Monthly and quarterly reporting. There are about more than 20 dynamically generated and, auto updating charts and tables containing real time data for reporting purpose.",
     "linkTitle":"View Project",
     "link":""
+    
+},
+    
+    
+    {
+    "title": "eHelp for Rogers Wireless Customer",
+    "image":"./images/ehelp_portfolio_01.png",
+    "technology":["PHP","joomla","mySql","JavaScript","JQuery","AJAX","CSS"],
+    "description":"This portal is for wireless technical support agents, after resolving an issue for a customer, and documenting the calls to billing system, and send an email instructions of how to resolved the issue by themselves for future reference. The links of the email will be an external site where Rogers customers can get the instructions, and screen shots of the how to perform the steps to resolve the issue. The tool will increase “First Time Resolution” for wireless agents, and decrease call volume for the department.",
+    "linkTitle":"View Demo Site",
+    "link":"http://rogersehelp.com/demo/index.php/android/85-android-data-connectivity"
+    
+}
+
+,
+    
+    
+    {
+    "title": "knowledge Management System for Rogers Wireless Technical Support Department:",
+    "image":"./images/ehelp01.png",
+    "technology":["PHP","Modx","mySql","JavaScript","JQuery","Wordpress","CSS","AJAX"],
+    "description":"Performed different life cycle phases in the design and deployment of a user-friendly system for wireless technical support department that is used by over 500 technical support agents,helping agents on their daily technical support calls. ",
+    "linkTitle":"View Demo Site",
+    "link":"http://rogersehelp.com/demo/index.php/android/85-android-data-connectivity"
+    
+}
+,
+    
+    
+    {
+    "title": "Rogers One Number BRT, Access Request Tool tracker",
+    "image":"./images/ron_brt01.png",
+    "technology":["PHP","mySql","JavaScript","Jquery","AJAX","CSS"],
+    "description":" Created, maintained,and provided technical support for various internal tools allowing senior managers, and tier 2 technical support agents efficiently keep track of the tool access requests, and Rogers one number calls.",
+    "linkTitle":"View Demo Site",
+    "link":"http://rogersehelp.com/demo/index.php/android/85-android-data-connectivity"
+    
+}
+,
+    
+    
+    {
+    "title": "Resume",
+    "image":"./images/resume_site_01.png",
+    "technology":["Media Queries","Responsive","CSS","javaScript","JQuery","HTML5","PHP","AJAX"],
+    "description":"This is a replica of my resume.The site is designed following responsive layout.This code is available on GitHub",
+    "linkTitle":"View Site",
+    "link":"http://tamzeveloper.com/oldresume/Resume_V01/"
     
 }
 
