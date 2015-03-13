@@ -5,6 +5,7 @@
 
 <section id="Portfolio">
     
+    
               
           <!-- Page Content -->
     <div class="container wow fadeInRight animated" data-wow-offset="40" data-wow-duration="3s" data-wow-delay="0.15s">
@@ -35,7 +36,7 @@
                 <p><span ng-repeat="skill in project.technology"><span class="label label-default" >{{skill}}</span> </span> </p>
                    
                
-                <p class="text-justify"> {{project.description}}</p>
+                <p class="text-justify" ng-bind-html="project.description" ></p>
                 <a class="btn btn-success" ng-href={{project.link}}>{{project.linkTitle}} <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </div>
