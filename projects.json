@@ -58,7 +58,7 @@
     "title": "Resume",
     "image":"./images/resume_site_01.png",
     "technology":["Media Queries","Responsive","CSS","javaScript","JQuery","HTML5","PHP","AJAX"],
-    "description":"This is a replica of my resume.The site is designed following responsive layout.The code is available on <a href=\"http://tamzeveloper.com/oldresume/Resume_V01/\"><span class=\"label label-primary\">GitHub</span></a>",
+    "description":"This is a replica of my resume.The site is designed following responsive layout.The code is available on <a href=\"https://github.com/tahminak/resume-mediaqueries\"><span class=\"label label-primary\">GitHub</span></a>",
     "linkTitle":"View Site",
     "link":"http://tamzeveloper.com/oldresume/Resume_V01/"
     
