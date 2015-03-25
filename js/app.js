@@ -39,7 +39,7 @@ app.config(function($routeProvider) {
 });
 
 
-//This controller is keeping track of the active view, and changing the
+//Controller to keep track of the active view, and change the
 // link class to active accordingly
 
 app.controller('NavController', 
