@@ -9,5 +9,5 @@ This is my resume page!!
 * Bootstrap 3
 * JQuery
 * wow.js
-*timeline.js
+* timeline.js
 * HTML5/CSS3
