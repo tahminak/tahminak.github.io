@@ -11,3 +11,4 @@ This is my resume page!!
 * wow.js
 * timeline.js
 * HTML5/CSS3
+
