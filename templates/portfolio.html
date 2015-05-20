@@ -26,8 +26,8 @@
         <div dir-paginate="project in projects|itemsPerPage: 4">
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive img-thumbnail" ng-src={{project.image}} alt="">
+                <a ng-href={{project.image}}>
+                    <img class="img-responsive img-thumbnail" ng-src={{project.image}}  alt="">
                 </a>
                 <hr />
             </div>
